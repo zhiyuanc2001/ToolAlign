@@ -1,1 +1,1 @@
-This is the code for paper ``Towards Tool Use Alignment of Large Language Models``
+Hi, this is the code for paper ``Towards Tool Use Alignment of Large Language Models``
