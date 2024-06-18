@@ -1,1 +1,1 @@
-Hi, this is the code for paper ``Towards Tool Use Alignment of Large Language Models``
+We **promise** will open source the code after the anonymity period.
