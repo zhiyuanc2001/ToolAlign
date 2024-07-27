@@ -5,6 +5,7 @@
 
 This is the code for paper **Towards Tool Use Alignment of Large Language Models**.
 
+The model is on [**Huggingface**](https://huggingface.co/JaxChen/ToolAlign-DPO).
 
 
 ## Train Data
