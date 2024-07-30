@@ -5,8 +5,11 @@
 
 This is the code for paper **Towards Tool Use Alignment of Large Language Models**.
 
-The model is on [**Huggingface**](https://huggingface.co/JaxChen/ToolAlign-DPO).
+Our model is on [**Huggingface**](https://huggingface.co/JaxChen/ToolAlign-DPO).
 
+
+Our data generation process is illustrated in the following image:
+![Data Generation Process](asserts/data_generation_process.png)
 
 ## Train Data
 The train data are in `trainset` folder
