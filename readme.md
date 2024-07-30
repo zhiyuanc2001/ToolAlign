@@ -9,7 +9,7 @@ Our model is on [**Huggingface**](https://huggingface.co/JaxChen/ToolAlign-DPO).
 
 
 Our data generation process is illustrated in the following image:
-![Data Generation Process](asserts/data_generation_process.png)
+![Data Generation Process](asserts/data_generation_v2.png)
 
 ## Train Data
 The train data are in `trainset` folder
